@@ -1,4 +1,4 @@
-# KIRMES SOUNDBOARD APP
+# 🎤 KIRMES SOUNDBOARD APP 🎉
 
 ## setup
 ```
