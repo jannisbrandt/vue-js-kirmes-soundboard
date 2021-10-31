@@ -1,6 +1,6 @@
 # 🎤 KIRMES SOUNDBOARD APP 🎉
 
-## setup
+## Setup
 ```
 $ npm install
 ```
