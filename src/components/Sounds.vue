@@ -17,6 +17,17 @@
 .v-card:hover {
   background-color: #f0a6bf;
 }
+
+.v-card__text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.v-card__text p {
+  margin-bottom: 0px;
+}
 </style>
 
 <script>
